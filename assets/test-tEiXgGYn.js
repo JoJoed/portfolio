@@ -1,1 +1,0 @@
-import{n as e,t}from"./index-Bp-gKYqc.js";var n=t();function r(){let t=e();return(0,n.jsx)(`div`,{onClick:()=>t(`/intro`),children:`link`})}export{r as default};
