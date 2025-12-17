@@ -1,0 +1,1 @@
+import{t as e}from"./index-CcN4CdYl.js";var t=e();function n(){return(0,t.jsx)(`div`,{className:`pt-[60px]`})}export{n as default};
