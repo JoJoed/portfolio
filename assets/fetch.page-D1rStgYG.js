@@ -1,0 +1,1 @@
+import{t as e}from"./index-6jYnn1Ph.js";var t=e();function n(){return(0,t.jsx)(`div`,{className:`flex justify-center items-center w-full h-full font-bold text-lg`,children:`점검중`})}export{n as default};
