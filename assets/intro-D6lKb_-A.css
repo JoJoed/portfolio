@@ -1,0 +1,1 @@
+@keyframes text-flow-linear{0%{background-position:0%}to{background-position:200%}}.animate-text-flow{will-change:background-position;animation:5s linear infinite text-flow-linear}
