@@ -1,0 +1,1 @@
+@keyframes text-flow-linear{0%{background-position:0%}to{background-position:200%}}.animate-text-flow{will-change:background-position;text-shadow:0 0 10px #ffffff26;animation:5s linear infinite text-flow-linear}@keyframes start-toggle-linear{0%{transform:translateY(0)}to{transform:translateY(100%)}}.toggle-helper{animation:1s infinite alternate start-toggle-linear}
