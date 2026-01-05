@@ -1,0 +1,1 @@
+@keyframes skillMoveAnimation{0%{transform:translateY(0)}to{transform:translateY(-20%)}}.skill-move-linear{animation:22s linear infinite skillMoveAnimation}
