@@ -1,2 +1,11 @@
-:HL["/portfolio/_next/static/chunks/0bf0a4d15ce854be.css","style"]
-0:{"buildId":"nK2D5C2C-zEgpGc9y-M-q","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"detail","paramType":null,"paramKey":"detail","hasRuntimePrefetch":false,"slots":{"children":{"name":"id","paramType":"d","paramKey":"k-eco","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+:HL["/portfolio/_next/static/chunks/67f8975ff0bf099b.css","style"]
+:HL["/portfolio/_next/static/media/Pretendard_Black-s.p.f05ae765.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/portfolio/_next/static/media/Pretendard_Bold-s.p.cf8746a0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/portfolio/_next/static/media/Pretendard_ExtraBold-s.p.6ff6b378.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/portfolio/_next/static/media/Pretendard_ExtraLight-s.p.b943d576.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/portfolio/_next/static/media/Pretendard_Light-s.p.d27b4105.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/portfolio/_next/static/media/Pretendard_Medium-s.p.0f3b69e0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/portfolio/_next/static/media/Pretendard_Regular-s.p.7d5750d9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/portfolio/_next/static/media/Pretendard_SemiBold-s.p.81c49f0f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/portfolio/_next/static/media/Pretendard_Thin-s.p.6e4c10a4.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"buildId":"o7rkZJiEyzKG50arodr0h","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"detail","paramType":null,"paramKey":"detail","hasRuntimePrefetch":false,"slots":{"children":{"name":"id","paramType":"d","paramKey":"k-eco","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
