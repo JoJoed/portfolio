@@ -1,6 +1,0 @@
-1:"$Sreact.fragment"
-2:I[62694,["/portfolio/_next/static/chunks/9c30e427f3abf8fb.js","/portfolio/_next/static/chunks/ac88697008773d5a.js"],"default"]
-3:I[64008,["/portfolio/_next/static/chunks/c970fd1a1231f302.js","/portfolio/_next/static/chunks/3e523db3859f1379.js"],"OutletBoundary"]
-4:"$Sreact.suspense"
-0:{"buildId":"D-WiUrYNqq-k-vdfQWV9w","rsc":["$","$1","c",{"children":[["$","$L2",null,{"id":"airport-t1"}],[["$","script","script-0",{"src":"/portfolio/_next/static/chunks/9c30e427f3abf8fb.js","async":true}],["$","script","script-1",{"src":"/portfolio/_next/static/chunks/ac88697008773d5a.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
-5:null
